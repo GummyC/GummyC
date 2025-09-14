@@ -1,7 +1,9 @@
 - Online i go by Gummy
-- Fairly new to coding and have a extensive intrest in machine learning
-- Currently learning Java and Python, and what i can on machine learning
-- love coding fun projects!
+- Strong skills in Python
+- Extensive intrest in machine learning
+- I love coding AI Agents for use in personal projects, and learning anything I can about AI.
+- Computer Science student at University of Washington's Paul G. Allen School.
+- 
 
 <!---
 GummyC/GummyC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
